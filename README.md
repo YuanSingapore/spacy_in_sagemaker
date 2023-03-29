@@ -1,6 +1,8 @@
 ## Build an efficient training & hosting workflow in SageMaker using spacy project
 
 This repository contains the CloudFormation template and prewritten source code powering the spacy project detailed in [spacy project](https://spacy.io/usage/projects). Feel free to customize it to fit your use case and share with us what you build!
+
+
 |-code
 |--train.py
 |--project.yml
