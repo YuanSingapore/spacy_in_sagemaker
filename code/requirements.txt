@@ -1,0 +1,2 @@
+spacy[cuda117,transformers]
+cupy-cuda117
